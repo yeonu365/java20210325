@@ -11,8 +11,8 @@ public class A04TypeShort {
 		shortVar =0;
 		shortVar = -32768;
 		shortVar =32767;
-		shortVar = 32768;
-		shortVar = -32769;
+//		shortVar = 32768;  short 의 최대값 32767
+//		shortVar = -32769; short 의 최소값 -32768
 		
 	}
 }

@@ -25,10 +25,10 @@ public class A03TypeByte {
 		
 		byte byteVar;
 		byteVar = -128;
-				byteVar = 127;
+		byteVar = 127;
 		
-		byteVar = -129;
-		byteVar = 128;		
+//		byteVar = -129;  byte 의 최소값 -128
+//		byteVar = 128;   byte 의 최대값 127		
 		
 		
 	}

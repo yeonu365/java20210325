@@ -15,9 +15,9 @@ public class A05TypeInt {
 		int intVar;
 		intVar = 0;
 		intVar = 2147483647;
-		intVar = 2147483648;
+//		intVar = 2147483648;
 		intVar = -2147483648;
-		intVar = -2147483649;
+//		intVar = -2147483649;
 		
 		// 16진법 : 0 ~ F
 		//  2진법 : 0000 ~ 1111
