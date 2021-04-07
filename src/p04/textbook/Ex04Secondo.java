@@ -13,7 +13,7 @@ public class Ex04Secondo {
 				
 				
 				
-				(d1 + d2) != 5) {
+				if (d1 + d2) != 5) {
 			
 			
 			
