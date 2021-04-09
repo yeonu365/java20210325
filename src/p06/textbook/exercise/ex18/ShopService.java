@@ -1,4 +1,4 @@
-package p06.textbook.ex18;
+package p06.textbook.exercise.ex18;
 
 public class ShopService {
 	

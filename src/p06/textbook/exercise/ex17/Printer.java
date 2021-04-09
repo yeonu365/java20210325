@@ -1,4 +1,4 @@
-package p06.textbook.ex17;
+package p06.textbook.exercise.ex17;
 
 public class Printer {
 	
