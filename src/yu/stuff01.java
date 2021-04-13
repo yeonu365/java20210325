@@ -1,4 +1,4 @@
-package YU;
+package yu;
 
 import java.util.Scanner;
 

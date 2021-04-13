@@ -5,6 +5,10 @@ public class CastingExample {
 		int intValue = 44032;
 		char charValue = (char) intValue;
 		System.out.println(charValue);
+
+		char abd = 44032;
+		System.out.println(abd);		
+		
 		
 		long longValue = 500;
 		intValue = (int) longValue;

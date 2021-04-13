@@ -1,4 +1,4 @@
-package YU;
+package yu;
 
 public class Textbook101p {
 	public static void main(String[] args) {

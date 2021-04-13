@@ -7,8 +7,8 @@ public class YU {
 		System.out.println(uniCode);
 		
 		char chVar = 101;
-		int intVar = chVar;
-		System.out.println((char)intVar);
+//		int intVar = chVar;
+		System.out.println(chVar);
 		
 		int intValue = 'A';
 		char charValue = (char) intValue;
