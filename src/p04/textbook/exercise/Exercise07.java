@@ -1,4 +1,4 @@
-package p04.textbook;
+package p04.textbook.exercise;
 
 import java.util.Scanner;
 

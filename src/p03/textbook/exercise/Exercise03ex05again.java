@@ -1,4 +1,4 @@
-package p03.textbook;
+package p03.textbook.exercise;
 
 public class Exercise03ex05again {
 	public static void main(String[] args) {
