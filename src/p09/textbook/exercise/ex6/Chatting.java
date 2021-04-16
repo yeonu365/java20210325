@@ -1,7 +1,7 @@
 package p09.textbook.exercise.ex6;
 
 public class Chatting {
-	void startChat(String chatId) {
+	void start(String chatId) {
 		String nickName = chatId;
 		
 		Chat chat = new Chat() {   
@@ -20,7 +20,7 @@ public class Chatting {
 		chat.start();
 	}
 	
-	class chat {
+	class Chat {
 		void start() {	}
 		void sendMessage(String message) {}
 	}
