@@ -1,4 +1,4 @@
-package yeonu;
+package yuCloudStudying;
 
 import java.util.Scanner;
 
