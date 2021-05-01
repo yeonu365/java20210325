@@ -19,6 +19,8 @@ public class A09Map {
 		
 		System.out.println(map.get(2));
 		System.out.println(map.get(8));
+		System.out.println();
+		System.out.println();
 		
 		Set<Integer> keys = map.keySet();
 		
