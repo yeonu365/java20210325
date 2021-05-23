@@ -1,17 +1,10 @@
 package yu.lifeCoding.myApp;
-public class AccountingApp {
+
+class Accounting {
 	public static double valueOfSupply;
 	public static double vatRate;
 	public static double expenseRate;
-
-	public static void main(String[] args) {
-		valueOfSupply = 10000.0;
-		vatRate = 0.1;
-		expenseRate = 0.3;
-
-		print();
-	}
-
+	
 	public static void print() {
 		System.out.println("value of supply : " + valueOfSupply);
 		System.out.println("VAT : "+ getVAT());
@@ -48,6 +41,16 @@ public class AccountingApp {
 	}
 	public static double getVAT() {
 		return valueOfSupply*vatRate;
+	}
+	
+}
+public class AccountingClassApp {
+
+	public static void main(String[] args) {
+		Accounting.valueOfSupply = 10000.0;
+		Accounting.vatRate = 0.1;
+		Accounting.expenseRate = 0.3;
+		Accounting.print();
 	}
 	
 }
